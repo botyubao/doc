@@ -1,0 +1,12 @@
+- [版本重要说明](README.md)
+- [基本功能说明](manual.md)
+- [②号机专供](unit2.md)
+- [已停用功能](baito/expired.md)
+- [进阶说明](advanced.md)
+- [如何邀请域宝加入其他群聊？](invite.md)
+<!-- - [域宝妈想说的话](last.md) -->
+- [搭建自己的bot](help.md)
+- [捐赠](donate.md)
+- [更新日志](log.md)
+- [开源鸣谢](baito/thanks.md)
+- [个人推广](ad.md)
