@@ -6,7 +6,7 @@
 已将日反馈上限调高。  
 真的能发聩过来，你们每发一次`来杯咖啡 xxxx`域宝都会私聊给我  
 别试了，骂我一句然后道歉一句。  
-<img src="../images/你妈.jpg" alt="你妈" width=250>  
+<img src="https://s2.loli.net/2023/10/13/w4mLTq3txJY7hKF.jpg" alt="你妈" width=250>  
 
 ### pcr抽卡
 触发指令：  
@@ -119,7 +119,7 @@
 `5000兆円 第一句话|第二句话`  
 （两句话之间用 | 分割）  
 具体效果就是这样：  
-<img src="../images/5k.png" alt="示意图" width=300>  
+<img src="https://s2.loli.net/2023/10/13/HqZzeNdsjg9REaO.jpg" alt="示意图" width=300>  
 `低情商 <文本> 高情商 <文本>`  
 `金龙盘旋 <文字1> <文字2> <底部文字>`  
 `金龙飞升 <文字1> <文字2> <底部文字>`  

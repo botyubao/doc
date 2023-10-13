@@ -8,11 +8,11 @@
 
 ### 爱发电
 [爱发电一键直达](https://afdian.net/@yubao)
-<center><img src="../images/afdian-轻尘.jpg" width=50%></center>
+<center><img src="https://s2.loli.net/2023/10/13/6c9QwfKp4okHCbn.jpg" width=50%></center>
 
 ### 加密货币
 仅接受Tron网络的BTC、USDC、USDT、TRX
-<center><img src="../images/OneKey-TRON.jpg" width=50%></center>
+<center><img src="https://s2.loli.net/2023/10/13/Qz7pcyr5TG2Mqwn.jpg" width=50%></center>
 
 
 ## 致谢

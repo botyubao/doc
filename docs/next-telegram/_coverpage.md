@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](../../images/telbothead.png)
+![logo](https://s2.loli.net/2023/10/13/DWgvKyt9MbT7iAw.png)
 
 # 域宝 - Telegram Bot <small>Alpha 1</small>
 
