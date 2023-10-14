@@ -237,6 +237,8 @@ r18模式默认只在域宝的涩图群开启。
 - 指令 + 自己，如：/顶 自己
 - 指令 + 图片，如：/撕 \[图片\]
 
+所有表情包预览：[https://github.com/MeetWq/meme-generator/blob/main/docs/memes.md](https://github.com/MeetWq/meme-generator/blob/main/docs/memes.md)
+
 ### 摸鱼人  
 每日推送摸鱼信息。
 

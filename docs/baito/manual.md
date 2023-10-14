@@ -219,6 +219,8 @@ r18模式默认不开启，如有需要请联系域宝妈。
 - 指令 + 自己，如：/顶 自己
 - 指令 + 图片，如：/撕 \[图片\]
 
+所有表情包预览：[https://github.com/MeetWq/meme-generator/blob/main/docs/memes.md](https://github.com/MeetWq/meme-generator/blob/main/docs/memes.md)
+
 ### AI绘图
 指令：
 - SD绘图 关键词
