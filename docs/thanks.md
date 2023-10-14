@@ -1,6 +1,10 @@
 # 鸣谢
 以下排名不分先后。
 - [go-cqhttp](https://github.com/Mrs4s/go-cqhttp/)
+- [TimeRainStarSky/Yunzai](https://gitee.com/TimeRainStarSky/Yunzai)
+- [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
+- [chrononeko/chronocat](https://github.com/chrononeko/chronocat)
+- [xiaoye12123/ws-plugin](https://gitee.com/xiaoye12123/ws-plugin)
 - [HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot)
 - [HoshinoBot-plugins-index](https://github.com/pcrbot/HoshinoBot-plugins-index)
 - [nonebot v1](https://github.com/nonebot/nonebot)
