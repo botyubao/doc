@@ -8,5 +8,5 @@
 - [搭建自己的bot](help.md)
 - [捐赠](donate.md)
 - [更新日志](log.md)
-- [开源鸣谢](baito/thanks.md)
+- [开源鸣谢](thanks.md)
 - [个人推广](ad.md)
