@@ -1,6 +1,7 @@
 # 鸣谢
 以下排名不分先后。
 - [go-cqhttp](https://github.com/Mrs4s/go-cqhttp/)
+- [linxinrao/Shamrock](https://github.com/linxinrao/Shamrock)
 - [TimeRainStarSky/Yunzai](https://gitee.com/TimeRainStarSky/Yunzai)
 - [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
 - [chrononeko/chronocat](https://github.com/chrononeko/chronocat)

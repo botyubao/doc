@@ -1,6 +1,7 @@
 # 鸣谢
 以下排名不分先后。
 - [go-cqhttp](https://github.com/Mrs4s/go-cqhttp/)
+- [linxinrao/Shamrock](https://github.com/linxinrao/Shamrock)
 - [HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot)
 - [HoshinoBot-plugins-index](https://github.com/pcrbot/HoshinoBot-plugins-index)
 - [nonebot v1](https://github.com/nonebot/nonebot)
