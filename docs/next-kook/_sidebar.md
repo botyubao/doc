@@ -1,0 +1,4 @@
+- [版本重要说明](next-kook/README.md)
+- [已支持的功能](next-kook/manual.md)
+- [开发日志](next-kook/log.md)
+- [捐赠](donate.md)

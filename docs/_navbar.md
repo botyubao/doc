@@ -7,3 +7,4 @@
 * Next Yubao
   
   * [telegram-bot](/next-telegram/)
+  * [KOOK-bot](/next-kook/)
