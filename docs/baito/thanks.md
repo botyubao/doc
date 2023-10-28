@@ -33,4 +33,5 @@
 - [Cosmos01/Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot)
 - [joeyHXD/aichat_chatGPT_API](https://github.com/joeyHXD/aichat_chatGPT_API)
 - [AddOneSecondL/zdjd_hoshino](https://github.com/AddOneSecondL/zdjd_hoshino)
+- [azmiao/uma_plugin](https://github.com/azmiao/uma_plugin)
 - [哔哩哔哩@秋葉aaaki](https://space.bilibili.com/12566101/dynamic)
