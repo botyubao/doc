@@ -35,4 +35,6 @@
 - [joeyHXD/aichat_chatGPT_API](https://github.com/joeyHXD/aichat_chatGPT_API)
 - [AddOneSecondL/zdjd_hoshino](https://github.com/AddOneSecondL/zdjd_hoshino)
 - [azmiao/uma_plugin](https://github.com/azmiao/uma_plugin)
+- [cc004/pcrjjc2](https://github.com/cc004/pcrjjc2)
+- [watermellye/arena](https://github.com/watermellye/arena)
 - [哔哩哔哩@秋葉aaaki](https://space.bilibili.com/12566101/dynamic)
