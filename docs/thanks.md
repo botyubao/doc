@@ -2,6 +2,7 @@
 以下排名不分先后。
 - [go-cqhttp](https://github.com/Mrs4s/go-cqhttp/)
 - [linxinrao/Shamrock](https://github.com/linxinrao/Shamrock)
+- [whitechi73/OpenShamrock](https://github.com/whitechi73/OpenShamrock)
 - [TimeRainStarSky/Yunzai](https://gitee.com/TimeRainStarSky/Yunzai)
 - [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
 - [chrononeko/chronocat](https://github.com/chrononeko/chronocat)
@@ -36,5 +37,6 @@
 - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [joeyHXD/aichat_chatGPT_API](https://github.com/joeyHXD/aichat_chatGPT_API)
 - [Nao-desu/pjsk_sticker](https://github.com/Nao-desu/pjsk_sticker)
+- [benx1n/when2holiday](https://github.com/benx1n/when2holiday)
 - [哔哩哔哩@秋葉aaaki](https://space.bilibili.com/12566101/dynamic)
 
