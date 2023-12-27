@@ -175,7 +175,11 @@
 ### v0.9.6.1 - fix_scorec (2023.10.29 ver.祝帝域生日快乐！)
 - 修复了一个远古遗留bug，该bug会导致积分在100\~150之间时无法完成签到和贴贴图片绘制的问题
 
-### v0.7 - princone (2923.11.01)
-- 重启部分公主连结功能。(怎么拆图片版)[baito/manual#怎么拆图片版]、(pcrjjc2)[baito/manual#pcrjjc2]
+### v0.9.7 - princone (2023.11.01)
+- 重启部分公主连结功能。[怎么拆图片版](baito/manual#怎么拆图片版)、[pcrjjc2](baito/manual#pcrjjc2)
+
+### v0.9.8 - otto (2023.12.27)
+- 实装了[otto活字印刷](baito/manual#otto活字印刷)
+- 域宝现在通过千帆API接入了ERNIE-BOT（文心一言），可以使用和文心一言对话了。[使用说明](baito/manual#AI对话ERNIE版)
 
 ### v0.10 - TBA
