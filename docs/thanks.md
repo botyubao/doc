@@ -38,5 +38,6 @@
 - [joeyHXD/aichat_chatGPT_API](https://github.com/joeyHXD/aichat_chatGPT_API)
 - [Nao-desu/pjsk_sticker](https://github.com/Nao-desu/pjsk_sticker)
 - [benx1n/when2holiday](https://github.com/benx1n/when2holiday)
+- [DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua)
 - [哔哩哔哩@秋葉aaaki](https://space.bilibili.com/12566101/dynamic)
 
