@@ -38,4 +38,5 @@
 - [cc004/pcrjjc2](https://github.com/cc004/pcrjjc2)
 - [watermellye/arena](https://github.com/watermellye/arena)
 - [DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua)
+- [azmiao/PalWorldPlugin]https://github.com/azmiao/PalWorldPlugin/
 - [哔哩哔哩@秋葉aaaki](https://space.bilibili.com/12566101/dynamic)

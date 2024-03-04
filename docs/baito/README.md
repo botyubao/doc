@@ -1,5 +1,9 @@
 # 版本重要说明
 
+## v0.9.9 - Pal (2024.03.05)
+- 现在，[otto活字印刷](baito/manual#otto活字印刷)可以通过以「-reverse」结尾倒放
+- 实装了[幻兽帕鲁](baito/manual#幻兽帕鲁)插件
+
 ## v0.9.8 - otto (2023.12.27)
 - 实装了[otto活字印刷](baito/manual#otto活字印刷)
 - 域宝现在通过千帆API接入了ERNIE-BOT（文心一言），可以使用和文心一言对话了。[使用说明](baito/manual#AI对话ERNIE版)
