@@ -8,3 +8,4 @@
   
   * [telegram-bot](/next-telegram/)
   * [KOOK-bot](/next-kook/)
+  * [wx-bot](/wx/)

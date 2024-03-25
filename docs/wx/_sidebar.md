@@ -1,0 +1,3 @@
+- [版本重要说明](wx/README.md)
+- [已支持的功能](wx/manual.md)
+- [开发日志](wx/log.md)
