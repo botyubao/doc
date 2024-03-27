@@ -29,19 +29,34 @@
 |----|----|----|----|
 | httpcat \<HTTP状态码\> | 发送对应HTTP状态码的猫猫图 | httpcat 418 | 群聊和私聊 |
 
-### Steam Info
-<small>修改自插件nonebot_plugin_steam_info，修改以适配非频道</small>  
-
-|指令|说明|指令示例|支持聊天类型|
-|----|----|----|----|
-| | | | |
-
 ### 表情包制作
-<small>来自插件nonebot-plugin-memes。由于wx无法图文在同一条消息内发送，所以功能不完善</small>  
+<small>来自插件nonebot-plugin-memes。由于wx无法图文在同一条消息内发送，所以需要携带图片参数的表情包无法制作</small>  
 
 |指令|说明|指令示例|支持聊天类型|
 |----|----|----|----|
-| | | | |
+| 表情包制作 | 获取所有表情包制作方案 | 表情包制作 | 群聊和私聊 |
+| 表情详情 表情包关键词 | 获取表情包说明 | 表情详情 batitle | 群聊和私聊 |
+| /表情关键词 文字参数 ... | 以文字参数制作指定表情包 | /batitle Granblue Fantasy | 群聊和私聊 |
+
+
+### Steam Info
+<small>修改自插件nonebot_plugin_steam_info，修改以适配非频道，增加解绑功能</small>  
+
+|指令|说明|指令示例|支持聊天类型|
+|----|----|----|----|
+| steambind Steam好友代码或Steam ID | 绑定Steam账号 | steambind 114514 | 仅群聊 |
+| steamunbind | 解绑steam账号 | steamunbind | 仅群聊 |
+| steaminfo | 获取绑定的 Steam ID 和好友代码 | steaminfo | 仅群聊 |
+| steamcheck | 看看本群谁在玩游戏 | steamcheck | 仅群聊 |
+
+### 保存表情
+<small>迁移自域宝本体</small>  
+<small>话虽这么说，但其实是按照wx逻辑彻底重写一遍...</small>  
+后续可能会通过其他方式实现保存gif（挖坑）
+
+|指令|说明|指令示例|支持聊天类型|
+|----|----|----|----|
+| 保存表情，然后在下一条消息发送一个微信表情 | 保存这个表情包，如果是gif只能保存第一帧 | N/A | 群聊或私聊 |
 
 <!--
 |指令|说明|指令示例|支持聊天类型|
