@@ -1,5 +1,8 @@
 # 版本重要说明
 
+## v0.9.10 - Steam (2024.05.11)
+- 实装了[Steam订阅](baito/manual#Steam订阅)功能，可以在群聊内推送订阅用户的游戏状态。
+
 ## v0.9.9 - Pal (2024.03.05)
 - 现在，[otto活字印刷](baito/manual#otto活字印刷)可以通过以「-reverse」结尾倒放
 - 实装了[幻兽帕鲁](baito/manual#幻兽帕鲁)插件
