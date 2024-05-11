@@ -5,6 +5,7 @@
 - [whitechi73/OpenShamrock](https://github.com/whitechi73/OpenShamrock)
 - [TimeRainStarSky/Yunzai](https://gitee.com/TimeRainStarSky/Yunzai)
 - [LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)
+- [LLOneBot/LLOneBot](https://github.com/LLOneBot/LLOneBot)
 - [chrononeko/chronocat](https://github.com/chrononeko/chronocat)
 - [xiaoye12123/ws-plugin](https://gitee.com/xiaoye12123/ws-plugin)
 - [HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot)
@@ -39,6 +40,11 @@
 - [Nao-desu/pjsk_sticker](https://github.com/Nao-desu/pjsk_sticker)
 - [benx1n/when2holiday](https://github.com/benx1n/when2holiday)
 - [DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua)
-- [azmiao/PalWorldPlugin]https://github.com/azmiao/PalWorldPlugin/
+- [azmiao/PalWorldPlugin](https://github.com/azmiao/PalWorldPlugin/)
+- [AddOneSecondL/zdjd_hoshino](https://github.com/AddOneSecondL/zdjd_hoshino)
+- [cc004/pcrjjc2](https://github.com/cc004/pcrjjc2)
+- [meme-generator](https://github.com/MeetWq/meme-generator)
+- [azmiao/uma_plugin](https://github.com/azmiao/uma_plugin)
+- [Cosmos01/Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot)
+- [watermellye/arena](https://github.com/watermellye/arena)
 - [哔哩哔哩@秋葉aaaki](https://space.bilibili.com/12566101/dynamic)
-
