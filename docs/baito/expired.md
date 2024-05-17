@@ -30,3 +30,8 @@
 太多了，看下面这个网址吧~~  
 ~~[MDWiki说明](MDwiki帮助.html "MuseDash Wiki插件使用说明")~~  
 <font color=red>停用</font>  
+
+
+### ~~词云图~~
+~~触发指令：生成今日词云、生成昨日词云、查询xx月xx日词云、查询xxxx年xx月xx日词云。~~   
+<font color=red>停用</font>  
