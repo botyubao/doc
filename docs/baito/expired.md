@@ -47,3 +47,12 @@
 |查看本群token|查看群聊消耗的token|
 
 调用OpenAI API需要走代理有时候如果长时间不回复就是网络炸了，稍等一会儿再试即可。  
+
+### 疫情查询 <font color=red>停用</font>  
+触发指令：`地名 疫情` 查询该新冠肺炎疫情  
+免责声明：数据来源于腾讯API[https://view.inews.qq.com/g2/getOnsInfo?name=disease_h5](https://view.inews.qq.com/g2/getOnsInfo?name=disease_h5)
+
+### 疫情出行政策 <font color=red>停用</font>  
+触发指令：  
+`出行政策 A B` 获取离开A城市和进入B城市的新冠疫情管控政策。  
+`出行政策 A` 获取A城市的进出管控政策  

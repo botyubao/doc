@@ -203,15 +203,6 @@
 -`看看大家问`  
 支持正则表达式设置，设置方法是R+python正则表达式写法。如`有人问R为什么.*?你答不知道`  
 
-### 疫情查询
-触发指令：`地名 疫情` 查询该新冠肺炎疫情  
-免责声明：数据来源于腾讯API[https://view.inews.qq.com/g2/getOnsInfo?name=disease_h5](https://view.inews.qq.com/g2/getOnsInfo?name=disease_h5)
-
-### 疫情出行政策
-触发指令：  
-`出行政策 A B` 获取离开A城市和进入B城市的新冠疫情管控政策。  
-`出行政策 A` 获取A城市的进出管控政策  
-
 ### pixiv查询
 触发指令：
 - `插画搜索 xxx` : 获取收藏最多的关键词相关图片,由于pixivpy一次性获取图片较少,每次关键词搜索到的图片质量较差
@@ -271,18 +262,6 @@ AI绘图依赖于家里云的P106-100显卡，生成一张图需要40秒左右�
 | ernie 问题 | 向ERNIE-BOT提问，即[AI对话ERNIE版](#ai对话ernie版) | ernie 说的道理 |
 | zhipu 问题 | 向智谱AI提问 | zhipu 哈基米 |
 | @bot ai帮助 | 获取当前接入的AI详情 | 域宝ai帮助 |
-
-### AI对话ERNIE版
-|指令|说明|
-|---|---|
-|ERNIE 内容|触发AI对话|
-|@bot wxyy闭嘴|停止群AI对话功能|
-|wxyy调整AI概率 X|启动AI对话，并设置非触发回复率为X%|
-|wxyy创建临时会话|创建一个临时会话，在临时会话内，不需要加前缀即可进行AI对话，且临时会话内不受上下文内容的干扰|
-|wxyy结束临时会话|退出临时会话模式|
-|wxyy查看本群token|查看群聊消耗的token|
-
-调用千帆API进行文心一言（ERNIE-BOT）进行AI对话。~~还是直接用文心一言方便一点，毕竟APP功能更多，也没有网络限制~~
 
 ### 翻译
 基于DeepL API Free 的翻译。
