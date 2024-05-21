@@ -192,4 +192,8 @@
 ### v0.10.0 - move (2024.05.14)
 - 迫不得已进行了服务迁移，[词云功能](baito/expired#词云图)现在全部失效。
 
+### v0.10.1 - GroupWordCloudGenerator (2024.05.21)
+- 公开了新的词云插件，[使用方法](baito/manual#词云图2)
+- 已移除[gpt功能](baito/expired#gpt)
+
 ### v0.11 - TBA
