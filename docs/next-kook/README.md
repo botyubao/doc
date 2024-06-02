@@ -1,6 +1,8 @@
 # 版本重要说明
 
-由于[super1207/KookOneBot](https://github.com/super1207/KookOneBot)已停止维护，kook版域宝暂停迁移工作。
+由于[super1207/KookOneBot](https://github.com/super1207/KookOneBot)已停止维护，kook版域宝暂停迁移工作。  
+
+鉴于KOOK最近的种种操作，kook版域宝决定关机。
 
 ~~KOOK（开黑啦）版域宝，作为下一代域宝的又一个形态，目前正在逐步适配中。~~
 
