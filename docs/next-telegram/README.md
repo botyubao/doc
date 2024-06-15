@@ -1,6 +1,6 @@
 # 版本重要说明
 
-telegram版域宝，作为下一代域宝的第一个形态，目前正在逐步开发中。
+telegram版域宝，作为下一代域宝的第一个形态，~~目前正在逐步开发中~~已经爽摸了。
 
 代码全部开源，开源仓库 [SlightDust/yubaoTelBotV2](https://github.com/SlightDust/yubaoTelBotV2)  
 点击左侧sidebar跳转到[功能列表](/next-telegram/manual)  
