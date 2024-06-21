@@ -1,5 +1,7 @@
 # 版本重要说明
 
+[![最终用户交流群](https://img.shields.io/badge/交流群-域宝のAtelier-blue)](https://qm.qq.com/q/ZwC3EIW5Gg)
+
 ## v0.10.2 - (2024.06.02)
 - 由于人脸融合API失效，换脸功能已移除
 
