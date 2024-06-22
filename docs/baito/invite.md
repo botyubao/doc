@@ -2,7 +2,7 @@
 由于会遭到tx莫名其妙的风控，所以妈不得不对邀请进行一些限制。  
 
 邀请方式公布如下：  
-1. 首先添加域宝-外放机为好友（3532599581），邀请码yubaobaito。[![域宝](https://img.shields.io/badge/域宝-外放机-blue)](https://qm.qq.com/q/ZwC3EIW5Gg)
+1. 首先添加域宝-外放机为好友（3532599581），邀请码yubaobaito。[![域宝](https://img.shields.io/badge/域宝-外放机-blue)](https://tool.gljlw.com/qq/?qq=3532599581)
 
 2. 加入域宝最终用户群（534724223）[![最终用户交流群](https://img.shields.io/badge/交流群-域宝のAtelier-blue)](https://qm.qq.com/q/ZwC3EIW5Gg)
 
