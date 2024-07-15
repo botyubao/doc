@@ -8,7 +8,8 @@
 
 ### 爱发电
 <font color=red>2024年7月15日晚23:30左右爱发电突发无法访问、官网域名被指向停靠站、ICP备案被注销等情。  
-虽然次日1点官网已恢复访问，但任然无法查询到ICP备案信息。在收到明确消息前，请立即停止使用爱发电平台。</font>
+虽然次日1点官网已恢复访问，但仍然无法查询到ICP备案信息。在收到明确消息前，请停止使用爱发电平台。</font>
+![](https://s2.loli.net/2024/07/16/t6YdqD1IECbjZmk.png ':size=60%')
 <!-- [爱发电一键直达](https://afdian.net/@yubao)
 <center><img src="https://s2.loli.net/2023/10/13/6c9QwfKp4okHCbn.jpg" width=50%></center> -->
 
