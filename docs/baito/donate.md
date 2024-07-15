@@ -7,8 +7,10 @@
 <!-- ![爱发电二维码](images/afdian-轻尘.jpg) -->
 
 ### 爱发电
-[爱发电一键直达](https://afdian.net/@yubao)
-<center><img src="https://s2.loli.net/2023/10/13/6c9QwfKp4okHCbn.jpg" width=50%></center>
+<font color=red>2024年7月15日晚23:30左右爱发电突发无法访问、官网域名被指向停靠站、ICP备案被注销等情。  
+虽然次日1点官网已恢复访问，但任然无法查询到ICP备案信息。在收到明确消息前，请立即停止使用爱发电平台。</font>
+<!-- [爱发电一键直达](https://afdian.net/@yubao)
+<center><img src="https://s2.loli.net/2023/10/13/6c9QwfKp4okHCbn.jpg" width=50%></center> -->
 
 ### 加密货币
 仅接受Tron网络的BTC、USDC、USDT、TRX
