@@ -11,8 +11,8 @@
 虽然次日1点官网已恢复访问，但仍然无法查询到ICP备案信息。在收到明确消息前，请停止使用爱发电平台。</font>  
 7月19日已恢复。  
 ![](https://s2.loli.net/2024/07/16/t6YdqD1IECbjZmk.png ':size=60%') -->
-[爱发电一键直达](https://afdian.net/@yubao)
-<center><img src="https://s2.loli.net/2023/10/13/6c9QwfKp4okHCbn.jpg" width=50%></center>
+[爱发电一键直达](https://afdian.com/a/yubao)
+<center><img src="https://s2.loli.net/2024/07/27/51L8wnSvdAhBcaC.jpg" width=50%></center>
 
 ### 加密货币
 仅接受Tron网络的BTC、USDC、USDT、TRX
