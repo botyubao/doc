@@ -12,11 +12,23 @@
 7月19日已恢复。  
 ![](https://s2.loli.net/2024/07/16/t6YdqD1IECbjZmk.png ':size=60%') -->
 [爱发电一键直达](https://afdian.com/a/yubao)
-<center><img src="https://s2.loli.net/2024/07/27/51L8wnSvdAhBcaC.jpg" width=50%></center>
+<details> 
+    <summary>爱发电二维码</summary>
+    <center><img src="https://s2.loli.net/2024/07/27/51L8wnSvdAhBcaC.jpg" width=50%></center>
+</details>  
+
+### Ko-fi
+<a href='https://ko-fi.com/L3L011SJB3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 
 ### 加密货币
+钱包地址：`TVUcoQWn1wMX3nhJhpTZhy44SLCLY3sUvi`  
 仅接受Tron网络的BTC、USDC、USDT、TRX
-<center><img src="https://s2.loli.net/2023/10/13/Qz7pcyr5TG2Mqwn.jpg" width=50%></center>
+<details> 
+    <summary>钱包二维码</summary>
+    <center><img src="https://s2.loli.net/2023/10/13/Qz7pcyr5TG2Mqwn.jpg" width=50%></center>
+</details>  
+
 
 
 ## 致谢
