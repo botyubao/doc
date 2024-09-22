@@ -31,7 +31,6 @@
 - [Oreo](https://github.com/C-Jun-GIT/Oreo)
 - [erinilis-modules](https://github.com/pcrbot/erinilis-modules)
 - [hoshino-print-qrcode](https://github.com/yuyumoko/hoshino-print-qrcode)
-- [headimg_generator](https://github.com/Lanly109/headimg_generator)
 - [Hoshinobot-plugin-petpet](https://github.com/chingkingm/Hoshinobot-plugin-petpet)
 - [Lanly109/headimg_generator](https://github.com/Lanly109/headimg_generator)
 - [ai_setu](https://github.com/pcrbot/ai_setu)
