@@ -2,7 +2,7 @@
 
 ![logo](https://q1.qlogo.cn/g?b=qq&nk=2304974028&s=100)
 
-# 域宝 <small>0.9</small>
+# 域宝 <small>0.10</small>
 
 >诞生于帝域动漫社团的QQ群聊Bot
 

@@ -2,7 +2,7 @@
 
 ![logo](https://q1.qlogo.cn/g?b=qq&nk=3532599581&s=100)
 
-# 域宝 - 外放机 <small>0.9</small>
+# 域宝 - 外放机 <small>0.10</small>
 
 >诞生于帝域动漫社团，外出打工的公益Bot
 
