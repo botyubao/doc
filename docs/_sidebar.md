@@ -1,7 +1,7 @@
 - [版本重要说明](README.md)
 - [基本功能说明](manual.md)
 - [②号机专供](unit2.md)
-- [已停用功能](baito/expired.md)
+- [已停用功能](expired.md)
 - [进阶说明](advanced.md)
 - [如何邀请域宝加入其他群聊？](invite.md)
 <!-- - [域宝妈想说的话](last.md) -->
