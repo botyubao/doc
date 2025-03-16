@@ -222,12 +222,14 @@ r18模式默认不开启，如有需要请联系域宝妈。
 AI绘图依赖于家里云的P106-100显卡，生成一张图需要40秒左右。
 
 ### 翻译
-基于DeepL API Free 的翻译。
+基于 DeepL API Free 和 Deepseek 的翻译。
 
-|指令|说明|指令示例|
-|----|----|----|
+|指令|说明|指令示例|支持聊天类型|
+|----|----|----|----|
 | tr/翻译 SRC DST text | 将text从SRC语言翻译为DST语言 | tr ZH JA 你好，我很可爱，请给我钱。 |
 | tr/翻译 ？ DST text | 自动检测text的语种，并翻译为DST语言 | tr ？ JA 你好，我是关羽。 |
+| 回复 tr | 自动检测原消息语种，并翻译为简体中文 | \[回复\] tr |
+| 回复 aitr | 借助ai，自动检测原消息语种，并翻译为简体中文 | \[回复\] aitr |
 
 支持的语种包括：
 - SRC：BG,CS,DA,DE,EL,EN,ES,ET,FI,FR,HU,ID,IT,JA,KO,LT,LV,NB,NL,PL,PT,RO,RU,SK,SL,SV,TR,UK,ZH
@@ -374,4 +376,8 @@ bjjc查简中服作业，rjjc查日服作业，tjjc查繁中服作业
 | 验车 种子ID | 去whatslink.info查种子信息 | 验车 32181995C9D274FCFBE0A5E427F047210E82A53D |
 | 验车 磁链 | 去whatslink.info查种子信息 | 验车 magnet:?xt=urn:btih:32181995C9D274FCFBE0A5E427F047210E82A53D |
 
-↑ 这个种子是黑神话悟空
+### vv
+使用了[Cicada000/VV](https://github.com/Cicada000/VV)项目提供的api
+|指令|说明|指令示例|
+|----|----|----|
+| vv 关键词 | 搜索vv教授在这就是中国节目里说过的包含指定关键词的话 | vv 天大的笑话 |
