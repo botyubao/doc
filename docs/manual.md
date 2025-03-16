@@ -361,7 +361,8 @@ AI绘图依赖于家里云的P106-100显卡，生成一张图需要40秒左右�
 | 验车 磁链 | 去whatslink.info查种子信息 | 验车 magnet:?xt=urn:btih:32181995C9D274FCFBE0A5E427F047210E82A53D |
 
 ### vv
-使用了[Cicada000/VV](https://github.com/Cicada000/VV)项目提供的api
+使用了[Cicada000/VV](https://github.com/Cicada000/VV)项目提供的api  
+
 |指令|说明|指令示例|
 |----|----|----|
 | vv 关键词 | 搜索vv教授在这就是中国节目里说过的包含指定关键词的话 | vv 天大的笑话 |

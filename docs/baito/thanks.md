@@ -46,4 +46,5 @@
 - [azmiao/uma_plugin](https://github.com/azmiao/uma_plugin)
 - [Cosmos01/Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot)
 - [watermellye/arena](https://github.com/watermellye/arena)
+- [Cicada000/VV](https://github.com/Cicada000/VV)
 - [哔哩哔哩@秋葉aaaki](https://space.bilibili.com/12566101/dynamic)
