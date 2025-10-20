@@ -8,10 +8,7 @@
 别试了，骂我一句然后道歉一句。  
 <img src="https://s2.loli.net/2023/10/13/w4mLTq3txJY7hKF.jpg" alt="你妈" width=250>  
 
-或者加群534724223，在群里问  
-
-[![最终用户交流群](https://img.shields.io/badge/交流群-域宝のAtelier-blue)](https://qm.qq.com/q/ZwC3EIW5Gg)
-
+或者见[邀请域宝](baito/invite.md)，在群里问  
 
 ### pcr抽卡
 触发指令：  
